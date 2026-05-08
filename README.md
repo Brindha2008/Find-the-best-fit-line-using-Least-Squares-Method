@@ -46,7 +46,7 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: BRINDHA A R
 RegisterNumber:  2122250400500
 */
-```
+
 
 ## Output:
 ![best fit line](sam.png)
